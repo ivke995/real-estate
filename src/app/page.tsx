@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <div>Hello Nekretnine</div>
+    <div>Hello Estates</div>
   );
 }
